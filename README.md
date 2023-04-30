@@ -6,7 +6,7 @@ This is a simple Todo List web app built using HTML, CSS, and JavaScript. You ca
 
 ## Getting Started
 
-To get started, simply clone or download the repository to your local machine and open the `index.html` file in your web browser. Alternatively, you can view a live demo of the app [here](https://example.com/todo-list).
+To get started, simply clone or download the repository to your local machine and open the `index.html` file in your web browser. 
 
 ## Usage
 
